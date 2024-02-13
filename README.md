@@ -1,1 +1,1 @@
-npm i install ---RUN TO INSTALL NODE_MODULES
+npm install ---RUN TO INSTALL NODE_MODULES
